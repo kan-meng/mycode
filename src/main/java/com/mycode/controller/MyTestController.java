@@ -11,5 +11,6 @@ public class MyTestController {
     @ResponseBody
     public String test(){
         return "ok";
+        
     }
 }
